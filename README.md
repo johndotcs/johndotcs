@@ -47,8 +47,12 @@ Software Engineer specializing in .NET backend development with a security-first
 
 ### GitHub Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johndotcs&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johndotcs&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johndotcs&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysk-ewf&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysk-ewf&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysk-ewf&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johndotcs&theme=tokyonight) | ![](https://streak-stats.demolab.com?user=johndotcs&theme=tokyonight&hide_border=false) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk-ewf&theme=tokyonight) | ![](https://streak-stats.demolab.com?user=ysk-ewf&theme=tokyonight&hide_border=false) |
 | :-: | :-: |
+
+### TryHackMe
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ysk.ewf.png)](https://tryhackme.com/p/ysk.ewf)
